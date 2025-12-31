@@ -574,7 +574,7 @@ const CampaignCalculator = () => {
             checked={isChecked}
             onChange={() => handleFeatureToggle(featureKey)}
             disabled={disabled}
-            className="mt-1 w-5 h-5 cursor-pointer accent-cyan-400 disabled:cursor-not-allowed"
+            className="mt-1 w-4 h-4 cursor-pointer accent-cyan-400 disabled:cursor-not-allowed"
           />
           <div className="flex-1">
             <div className="flex items-center gap-2">
